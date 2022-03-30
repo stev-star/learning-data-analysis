@@ -2,9 +2,12 @@
 	"folders": [
 		{
 			"path": "..\\..\\..\\Documents\\py"
+<<<<<<< HEAD
 		},
 		{
 			"path": "..\\..\\..\\Documents\\Python Scripts"
+=======
+>>>>>>> dd7197a9bc5e4feef2c99c2b72e4a415e4dab5ed
 		}
 	]
 }
